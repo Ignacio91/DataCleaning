@@ -1,12 +1,12 @@
-Header 1
-========
 This repo contains the solution to the Getting and Cleaning Data Peer Assessment 
+========
+
 
 Simply execute "run_analysis.R". The folders have to be present in the working directory and follow the structure "UCI HAR Dataset/"
 You have to have the files downloaded before running the script.
 The ouput will be 2 tidy txt, with the two parts of the assignment
 
-Header 2
+The exercise's description
 --------
 The exercise's description
 
